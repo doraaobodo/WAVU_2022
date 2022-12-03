@@ -1,0 +1,3 @@
+"0","summarize("
+"0","    group_by(gap_geo, year), "
+"0","    mean_life_exp=weighted.mean(life_exp, population, na.rm=TRUE))"

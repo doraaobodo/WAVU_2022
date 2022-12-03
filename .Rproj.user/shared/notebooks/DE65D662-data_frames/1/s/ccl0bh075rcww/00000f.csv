@@ -1,0 +1,8 @@
+"0","knitr::opts_chunk$set(fig.width=6, fig.height=3.5, fig.align=""center"")"
+"2","Warning message:
+"
+"2","In unloadNamespace(package) :"
+"2","
+ "
+"2"," namespace ‘rlang’ is imported by ‘htmltools’ so cannot be unloaded
+"
